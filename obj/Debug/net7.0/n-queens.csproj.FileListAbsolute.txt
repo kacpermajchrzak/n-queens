@@ -1,0 +1,15 @@
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/bin/Debug/net7.0/n-queens
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/bin/Debug/net7.0/n-queens.deps.json
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/bin/Debug/net7.0/n-queens.runtimeconfig.json
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/bin/Debug/net7.0/n-queens.dll
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/bin/Debug/net7.0/n-queens.pdb
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/obj/Debug/net7.0/n-queens.csproj.AssemblyReference.cache
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/obj/Debug/net7.0/n-queens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/obj/Debug/net7.0/n-queens.AssemblyInfoInputs.cache
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/obj/Debug/net7.0/n-queens.AssemblyInfo.cs
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/obj/Debug/net7.0/n-queens.csproj.CoreCompileInputs.cache
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/obj/Debug/net7.0/n-queens.dll
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/obj/Debug/net7.0/refint/n-queens.dll
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/obj/Debug/net7.0/n-queens.pdb
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/obj/Debug/net7.0/n-queens.genruntimeconfig.cache
+/Users/kacper/studia/sem4/programowanie zaawansowane 2/n-queens/obj/Debug/net7.0/ref/n-queens.dll
