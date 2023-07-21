@@ -29,16 +29,7 @@ public class Solution {
         // creating empty chessboard
         IList<IList<string>> allSolutions = new List<IList<string>>();
         IList<int[,]> boards = new List<int[,]>();
-        // for(int col=0; col<n; col++){
-        //     int[,] chessboard = new int[n, n];
-        //     int sol = _solveNQueens(chessboard, 0, col, n, boards);
-        //     if (sol >= 0){
-        //         // printChessboard(chessboard, n);
-        //         col = sol;
-        //         allSolutions.Add(compareBoardToIList(chessboard));
-        //     }
-            
-        // }
+ 
         int[,] chessboard = new int[n, n];
         _solveNQueens(chessboard, 0, 0, n, boards);
         foreach(var b in boards){
